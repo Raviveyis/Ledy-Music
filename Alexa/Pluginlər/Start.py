@@ -132,9 +132,9 @@ async def useradd(_, message: Message):
 
 🎧 Mən Telegram səsli chat-da Musiqi və Video Yayınlıya Bilərəm.
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 › : [MR AĞA](https://t.me/Tenha055)
-┣★ 𝐋𝐞𝐝𝐲𝐔𝐩 › : [LEYDUP](https://t.me/ledyplaylist)
-┣★ 𝐌𝐑𝐒𝐮𝐩 › : [MRSUPP](https://t.me/SOQrup)
+┣★ SAHİB › : [LUCİFER](https://t.me/r4v1_v6y1s)
+┣★ KANAL › : [KANAL](https://t.me/lovelesslifee)
+┣★ QRUP › : [QRUP](https://t.me/Team_Manyak_Club)
 ┗━━━━━━━━━━━━━━━━━┛
 
 📚 Əmrlər bölməsi üçün /help əmrinə toxunun.
@@ -143,7 +143,7 @@ async def useradd(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💔 Məni Qrupa Əlavə et 💔", url=f"https://t.me/SSmusicLedy_bot?startgroup=true")
+                        "💔 Məni Qrupa Əlavə et 💔", url=f"https://t.me/AppleMusicibot?startgroup=true")
                 ]
                 
            ]
@@ -159,7 +159,7 @@ async def useradd(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🛠️ MR AĞA BOTS SUPPORT 🛠️", url=f"https://t.me/SOQrup")
+                        "🛠️ QRUP 🛠️", url=f"https://t.me/Team_Manyak_Club")
                 ]
             ]
         ),
@@ -175,7 +175,7 @@ async def useradd(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "😅Bəlkə verər😅", url=f"https://t.me/Tenha055")
+                        "😅Bəlkə verər😅", url=f"https://t.me/r4v1_v6y1s")
                 ]
             ]
         ),

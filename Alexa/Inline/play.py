@@ -319,7 +319,7 @@ def secondary_markup(videoid, user_id):
 
         [
 
-            InlineKeyboardButton(text="📱 Channel", url=f"https://t.me/ledyplaylist"),
+            InlineKeyboardButton(text="📱 Channel", url=f"https://t.me/lovelesslifee"),
 
         ],
 
@@ -331,7 +331,7 @@ def secondary_markup(videoid, user_id):
 
             ),
 
-            InlineKeyboardButton(text=""🛠️ Support", url=f"https://t.me/SOQrup"),
+            InlineKeyboardButton(text=""🛠️ Support", url=f"https://t.me/Team_Manyak_Club"),
 
         ],
 
@@ -345,13 +345,13 @@ def secondary_markup2(videoid, user_id):
 
         [
 
-            InlineKeyboardButton(text="📱 Channel", url=f"https://t.me/Ledyplaylist"),
+            InlineKeyboardButton(text="📱 Channel", url=f"https://t.me/lovelesslifee"),
 
         ],
 
         [
 
-            InlineKeyboardButton(text=""🛠️ Support", url=f"https://t.me/SOQrup"),
+            InlineKeyboardButton(text=""🛠️ Support", url=f"https://t.me/Team_Manyak_Club"),
 
         ],
 
@@ -383,7 +383,7 @@ def primary_markup(videoid, user_id, current_time, total_time):
 
         [
 
-            InlineKeyboardButton(text="📱 Channel", url=f"https://t.me/ledyplaylist"),
+            InlineKeyboardButton(text="📱 Channel", url=f"https://t.me/lovelesslifee"),
 
         ],
 
@@ -395,7 +395,7 @@ def primary_markup(videoid, user_id, current_time, total_time):
 
             ),
 
-            InlineKeyboardButton(text=""🛠️ Support", url=f"https://t.me/SOQrup"),
+            InlineKeyboardButton(text=""🛠️ Support", url=f"https://t.me/Team_Manyak_Club"),
 
         ],
 
@@ -421,7 +421,7 @@ def timer_markup(videoid, user_id, current_time, total_time):
 
         [
 
-            InlineKeyboardButton(text="📱 Channel", url=f"https://t.me/ledyplaylist"),
+            InlineKeyboardButton(text="📱 Channel", url=f"https://t.me/lovelesslifee"),
 
         ],
 
@@ -433,7 +433,7 @@ def timer_markup(videoid, user_id, current_time, total_time):
 
             ),
 
-            InlineKeyboardButton(text=""🛠️ Support", url=f"https://t.me/SOQrup"),
+            InlineKeyboardButton(text=""🛠️ Support", url=f"https://t.me/Team_Manyak_Club"),
 
         ],
 
@@ -465,11 +465,11 @@ def audio_markup(videoid, user_id, current_time, total_time):
 
         [
 
-            InlineKeyboardButton(text="📱 Channel", url=f"https://t.me/ledyplaylist"),
+            InlineKeyboardButton(text="📱 Channel", url=f"https://t.me/lovelesslifee"),
 
         ],
 
-        [InlineKeyboardButton(text=""🛠️ Support", url=f"https://t.me/SOQrup")],
+        [InlineKeyboardButton(text=""🛠️ Support", url=f"https://t.me/Team_Manyak_Club")],
 
     ]
 
@@ -493,11 +493,11 @@ def audio_timer_markup_start(videoid, user_id, current_time, total_time):
 
         [
 
-            InlineKeyboardButton(text="📱 Channel", url=f"https://t.me/ledyplaylist"),
+            InlineKeyboardButton(text="📱 Channel", url=f"https://t.me/lovelesslifee"),
 
         ],
 
-        [InlineKeyboardButton(text=""🛠️ Support", url=f"https://t.me/SOQrup")],
+        [InlineKeyboardButton(text=""🛠️ Support", url=f"https://t.me/Team_Manyak_Club")],
 
     ]
 
@@ -509,11 +509,11 @@ audio_markup2 = InlineKeyboardMarkup(
 
         [
 
-            InlineKeyboardButton(text="📱 Channel", url=f"https://t.me/ledyplaylist"),
+            InlineKeyboardButton(text="📱 Channel", url=f"https://t.me/lovelesslifee"),
 
         ],
 
-        [InlineKeyboardButton(text="🛠️ Support ", url=f"https://t.me/SOQrup")],
+        [InlineKeyboardButton(text="🛠️ Support ", url=f"https://t.me/Team_Manyak_Club")],
 
     ]
 
